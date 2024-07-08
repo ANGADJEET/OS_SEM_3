@@ -1,4 +1,3 @@
-```markdown
 # ELF Loader and Executor
 
 This project is a simple ELF (Executable and Linkable Format) loader and executor implemented in C++. It reads an ELF binary file, loads the necessary segments into memory, and then executes the binary.
